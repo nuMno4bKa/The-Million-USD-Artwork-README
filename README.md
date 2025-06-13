@@ -51,8 +51,9 @@ Built with:
 
 ---
 
-## 🤝 Get Involved
+## 💫 Join the Movement
 
-If you like the idea — share it, join the movement, or just leave your pixel.
+If this project resonates with you — help it grow:
 
-[https://themillionusdtartwork.com](https://themillionusdtartwork.com)
+👉 [Leave your mark on the canvas](https://themillionusdtartwork.com)  
+❤️ [Upvote and support on Product Hunt](https://www.producthunt.com/products/the-million-usdt-artwork?launch=the-million-usdt-artwork)
