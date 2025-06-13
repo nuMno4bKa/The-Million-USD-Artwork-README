@@ -17,6 +17,8 @@ When the canvas is full, it will be turned into a **single NFT**, and auctioned.
 ✅ **100% of the auction proceeds go to charity (ICRC)**  
 💰 **300,000 USDT in rewards for participants**
 
+📝 [Read my full story on Medium →](https://medium.com/@zhiznevskyi1990/2c348dbd3790)
+
 ---
 
 ## 🌍 Why it matters
